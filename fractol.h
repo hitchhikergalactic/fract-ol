@@ -65,8 +65,8 @@ typedef struct s_fractol
 
 }	t_fractol;
 
-# define WIDTH 800
-# define HEIGHT 800
+# define WIDTH 1000
+# define HEIGHT 1000
 //colors for fractal
 # define NEON_PINK 0xFF1493
 # define NEON_GREEN 0x00FF00

@@ -62,11 +62,13 @@ int	ft_atoi(char	*str)
 
 static	void	ft_putstr(char *str)
 {
+	int i;
 	if (!str)
 		return ;
 	if (*str != '\0')
 	{
-		write(1, str, 1);
+		i = write(1, str, 1);
+		(void) i;
 		ft_putstr(str + 1);
 	}
 }

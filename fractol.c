@@ -14,7 +14,7 @@
 
 static	void	init_util_data(t_fractol *fractol)
 {
-	fractol->iterations = 70;
+	fractol->iterations = 20;
 	fractol->move_x = 0.0;
 	fractol->move_y = 0.0;
 	fractol->zoom = 1.0;

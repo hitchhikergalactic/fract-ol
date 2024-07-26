@@ -9,7 +9,8 @@ SRCS = main.c \
 OBJS = $(SRCS:.c=.o)
 
 CC = gcc
-CFLAGS = -Wall -Wextra -Werror  -fsanitize=address -fsanitize=leak  -g3
+CFLAGS = -Wall -Wextra -Werror -O3
+#-fsanitize=address -fsanitize=leak  -g3
 RM_RF = rm -rf
 NAME = fractol
 MLX_PATH = minilibx-linux
