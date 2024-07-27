@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   fractol.h                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: osredond <osredond@student.42madrid.com>             +#+  +:+       +#+        */
+/*   By: osredond <osredond@student.42madrid.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/20 15:19:21 by osredond          #+#    #+#             */
 /*   Updated: 2023/12/30 22:19:39 by osredond         ###   ########.fr       */
@@ -21,18 +21,17 @@
 # include <unistd.h>
 # include <math.h>
 
-#define KEY_ESC 65307
-#define KEY_UP 65362
-#define KEY_DOWN 65364
-#define KEY_LEFT 65361
-#define KEY_RIGHT 65363
-#define KEY_PLUS 43
-#define KEY_MINUS 45
-#define KEY_SPACE 32
+# define KEY_ESC 65307
+# define KEY_UP 65362
+# define KEY_DOWN 65364
+# define KEY_LEFT 65361
+# define KEY_RIGHT 65363
+# define KEY_PLUS 43
+# define KEY_MINUS 45
+# define KEY_SPACE 32
 
-#define MOUSE_UP 4
-#define MOUSE_DOWN 5
-
+# define MOUSE_UP 4
+# define MOUSE_DOWN 5
 
 typedef struct s_complex
 {

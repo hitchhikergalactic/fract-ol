@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   events.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: osredond <osredond@student.42madrid.com>             +#+  +:+       +#+        */
+/*   By: osredond <osredond@student.42madrid.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/25 20:21:22 by osredond          #+#    #+#             */
 /*   Updated: 2023/12/30 22:18:00 by osredond         ###   ########.fr       */
@@ -17,7 +17,7 @@ static	int	exit_program(t_fractol *fractol)
 	mlx_destroy_image(fractol->ptr_mlx, fractol->image.img_ptr);
 	mlx_destroy_window(fractol->ptr_mlx, fractol->open_w);
 	mlx_destroy_display(fractol->ptr_mlx);
-    free(fractol->ptr_mlx);
+	free(fractol->ptr_mlx);
 	exit(EXIT_SUCCESS);
 }
 
@@ -51,7 +51,7 @@ static	int	handle_key_press(int keycode, t_fractol *fractol)
 }
 
 static	int	handle_mouse_event(int keycode, int x, int y, t_fractol *fractol)
-{	
+{
 	double	i;
 	double	real;
 

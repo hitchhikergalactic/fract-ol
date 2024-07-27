@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   utils_math.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: osredond <osredond@student.42madrid.com>             +#+  +:+       +#+        */
+/*	 By: osredond <osredond@student.42madrid.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/30 18:47:33 by osredond          #+#    #+#             */
 /*   Updated: 2023/12/30 22:48:47 by osredond         ###   ########.fr       */

@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   main.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: osredond <osredond@student.42madrid.com>             +#+  +:+       +#+        */
+/*   By: osredond <osredond@student.42madrid.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/20 15:24:35 by osredond          #+#    #+#             */
 /*   Updated: 2023/12/30 22:21:30 by osredond         ###   ########.fr       */

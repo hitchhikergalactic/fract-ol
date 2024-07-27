@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   fractol.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: osredond <osredond@student.42madrid.com>             +#+  +:+       +#+        */
+/*   By: osredond <osredond@student.42madrid.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/23 17:47:47 by osredond          #+#    #+#             */
 /*   Updated: 2023/12/30 21:51:37 by osredond         ###   ########.fr       */

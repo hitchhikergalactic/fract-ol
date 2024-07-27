@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   utils.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: osredond <osredond@student.42madrid.com>             +#+  +:+       +#+        */
+/*   By: osredond <osredond@student.42madrid.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/20 15:28:15 by osredond          #+#    #+#             */
 /*   Updated: 2023/12/30 22:16:20 by osredond         ###   ########.fr       */
@@ -62,7 +62,8 @@ int	ft_atoi(char	*str)
 
 static	void	ft_putstr(char *str)
 {
-	int i;
+	int	i;
+
 	if (!str)
 		return ;
 	if (*str != '\0')

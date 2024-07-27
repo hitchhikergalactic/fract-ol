@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   rendering_fractol.c                                :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: osredond <osredond@student.42madrid.com>             +#+  +:+       +#+        */
+/*   By: osredond <osredond@student.42madrid.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/23 18:50:32 by osredond          #+#    #+#             */
 /*   Updated: 2023/12/30 21:58:21 by osredond         ###   ########.fr       */
